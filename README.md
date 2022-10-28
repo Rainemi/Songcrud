@@ -1,2 +1,2 @@
 # Songcrud
-make sure to activate virtual env
+ A songcrud project
